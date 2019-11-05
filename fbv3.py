@@ -120,7 +120,7 @@ def an():
         print 'Biasanya yg gak subscribe tidak bisa login'
         time.sleep(3)
         os.system('xdg-open https://www.youtube.com/channel/UCz5Z718-ZRUy9aBzCAHqrug ')
-        print 'User = Mr  dan   Pasw = HG04 '
+        print 'User = .  dan   Pasw = . '
         time.sleep(5)
         print 'Masukan User dan Pass nya ?'
         uname = raw_input('\n\x1b[32;1m[\x1b[33;1m#\x1b[32;1m]\x1b[37;1m Username : ')
